@@ -26,16 +26,16 @@ tags:
 电影页面如下，基本就是以Ant Design里Card来显示各个影片的缩略图，屏幕导航栏可以根据演员，类型等信息快速filter查找影片。
 
 右侧是影片搜索，加入Potplayer播放列表功能。并且支持自定义SQL搜索。
-![](../img/movie-manager/1.jpg)
+![](/img/movie-manager/1.jpg)
 
 点击影片卡后即可进入影片详情界面，界面会自动获取演员，类型，标签信息并以Button形式显示在详情界面上，点击button即可查看相关影片。
-![](../img/movie-manager/2.png)
+![](/img/movie-manager/2.png)
 
 演员界面如下，目前的演员列表是基于我的电影收藏刮削获得（本人库收藏6000余部，基本囊括热门女优），在本程序里也内置了一个女演员刮削器。演员界面的左侧支持通过年龄，身高，罩杯进行filter，右上方可以将屏幕内所有演员的电影加入Potplayer播放列表，以及人名搜索功能。
-![](../img/movie-manager/3.png)
+![](/img/movie-manager/3.png)
 
 点击演员头像卡即可进入演员详情页面，页面里将有演员的各项信息以及评分（评分来源为minnano-av，同时这也是我用于刮削数据的网站）
-![](../img/movie-manager/4.png)
+![](/img/movie-manager/4.png)
 
 # 安装说明
 影片需要预先通过Movie_Data_Capture等刮削器取得元数据和影片封面图片。如果已有元数据，请直接从第二步开始阅读。
@@ -47,7 +47,7 @@ https://github.com/4evergaeul/JAV_MovieManager/releases/download/v1.3.1/JavSp.zi
 例如xxxx.com@ADN-566.mp4需要重命名为ADN-566.mp4，否则影片刮削器无法识别。
 
 2. 重命名完毕后，确认JavSP.exe,config.ini,和将要整理的影片在同一文件夹内。
-![](../img/movie-manager/Picture5.png)
+![](/img/movie-manager/Picture5.png)
 
 3. 运行JavSP.exe,程序运行完毕后，影片将按照女优名分类放入<b>#整理完成</b>文件夹中。
 
@@ -70,10 +70,10 @@ npm install --global serve
 5.  在一切安装完毕后，即可以解压MovieManager。双击"MovieManager.TrayApp.exe"运行。此时会弹窗“程序正在初始化”，请等待大约10-30秒。
 
 6. 程序初始化完毕后，弹窗会自动关闭，并且程序会用默认浏览器打开。并且程序也会出现在<b>屏幕右下角的托盘图标中</b>，如下图。
-![](../img/movie-manager/Picture9.png)
+![](/img/movie-manager/Picture9.png)
 
 7. 右键图标，点击"打开"。这个时候默认浏览器会打开影片管理器。点击<b>设置</b>。
-![](../img/movie-manager/Picture10.png)
+![](/img/movie-manager/Picture10.png)
 
 8.  下面是设置表格的介绍：
 <b>（必须）</b> “文件夹”： 设置为你的影片目录（需要手动输入，或把地址复制粘贴过去）。e.g.``` J:\MyFile\New\有码\演员```。<br>
@@ -83,13 +83,13 @@ npm install --global serve
 <b>（可选）</b>“演员头像（全体）”：用于演员详细页面里的写真照片。放文件夹地址。<br>
 “扫描所有文件”： 默认为ON，如果OFF的话则可以设定扫描多少天内加的电影。<br>
 “扫描多少天内加的电影”：如果这里的数值设为<b>-1</b>，则搜索所有电影。<br>
-![](../img/movie-manager/Picture11.png)
+![](/img/movie-manager/Picture11.png)
 
 9. 在一切配置完成后，点击“保存设置”->“添加新电影”。 程序就会开始构建影片库，这个时长会根据你影片数量而定。影片库构建完成后页面会刷新并返回电影页面。（如果点击保存设置后，程序未能立刻保存，说明后端程序没有正常运行，右键点击托盘栏图标并点击退出，重新运行程序即可）
 
 
 配置完成后类似下图。
-![](../img/movie-manager/Picture12.png)
+![](/img/movie-manager/Picture12.png)
 
 
 # Repository文档
