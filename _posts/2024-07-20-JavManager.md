@@ -12,6 +12,10 @@ tags:
     - C#
     - React.JS
 ---
+
+<p>添加新的Issue：https://github.com/4evergaeul/JAV_MovieManager/issues</p>
+<p>Telegram交流群：https://t.me/+9JBjtAz_EqhmMmRh</p>
+
 # 软件介绍（目前暂不支持步兵和欧美片）
 所谓工欲善其事必先利其器，如果说拥有一个元数据完备的电影库则是优雅看片的第一步，那么我认为有一个功能功能完备的电影管理器则是优雅看片的第二步。
 
