@@ -3,7 +3,7 @@ layout:     post
 title:      Jav Manager|您的私人影片管理器
 subtitle:   Jav Manager的设置和使用
 date:       2024-07-20
-author:     BY
+author:     4EVERGAEUL
 header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
