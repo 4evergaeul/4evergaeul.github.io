@@ -1,18 +1,18 @@
 # Site settings
-title: Jav Manager|您的私人影片管理器
-SEOTitle: Jav Manager|您的私人影片管理器
-header-img: img/post-bg-desk.jpg
+title: Jav Manager | 您的私人影片管理器
+SEOTitle: Jav Manager | 您的私人影片管理器
+header-img: img/movie-manager/1.jpg
 email: https://t.me/+9JBjtAz_EqhmMmRh
-description: "Every failure is leading towards success."
+description: "优雅的存放您的小电影"
 keyword: "JavaManager, Jave Manager, JAV电影管理器"
-url: "http://javmanager.github.io"          # your host, for absolute URL
+url: "https://4evergaeul.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/4evergaeul" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: 感谢您的使用，有任何问题欢迎加入电报群或创建issue"
+sidebar-avatar: img/about-avatar.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
