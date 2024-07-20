@@ -4,7 +4,7 @@ title:      Jav Manager|您的私人影片管理器
 subtitle:   Jav Manager的设置和使用
 date:       2024-07-20
 author:     4EVERGAEUL
-header-img: img/movie-manager/1.jpg
+header-img: img/header-bg-generic.jpg
 catalog: true
 tags:
     - JavManager
